@@ -31,5 +31,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Contact Creator
 
-[Twitter](https://twitter.com/ImDivyanshMV) account.-@ImDivyanshMV
-[Instagram](https://www.instagram.com/imdivyanshmv/) account- @imdivyanshmv
+- [Twitter](https://twitter.com/ImDivyanshMV) account.-@ImDivyanshMV
+- [Instagram](https://www.instagram.com/imdivyanshmv/) account- @imdivyanshmv
