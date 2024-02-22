@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@langchain/mistralai": "^0.0.7",
+    "@langchain/openai": "^0.0.14",
+    "@tanstack/react-query": "^5.20.1",
+    "firebase": "^10.8.0",
+    "langchain": "^0.1.17",
+    "next": "14.1.0",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.1.0"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
